@@ -7,9 +7,9 @@
 # [Fiddler抓取教程](https://blog.chrxw.com/archives/2019/10/20/437.html)
 
 [[accounts]]
-heybox_id = 0
-imei = ""
-pkey = ""
+heybox_id = 13347029
+imei = "860087046521965"
+pkey = "MTU1NjI5OTA3Mi4wXzEzMzQ3MDI5cWVraXF1a3BmeHdhYXJ4bg____"
 # 为每个账号独立配置请求头, 不设置的话使用[heybox]节的全局配置
 # channel = "heybox_xiaomi"
 # os_type = 1
